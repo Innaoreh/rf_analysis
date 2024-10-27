@@ -23,6 +23,11 @@ Some interesting tasks by my opinion witch i resolved:
 ## Demonstration:
 [Dashboard view] https://github.com/Innaoreh/rf_analysis/blob/master/Demonstration.gif
 
- 
+![](https://github.com/Innaoreh/rf_analysis/blob/master/Demonstration.gif)
+
+
+
+
+
 
  
